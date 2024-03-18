@@ -1,3 +1,18 @@
+"""
+https://www.freecodecamp.org/espanol/news/el-comando-git-push-explicado/
+Al iniciar en una carpeta, se crea el proyecto en el repo de github
+git init
+git remote
+git add .
+git status 
+git commit -m "Cualquier comentario"
+git push origin main
+git push
+
+git push --all <NOMBRE-REMOTO>
+
+"""
+
 text = 'Hello world'
 shift = 3
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
